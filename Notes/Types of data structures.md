@@ -1,3 +1,4 @@
+#Types of Data Structures
 **ArrayList** - stores objects and can grow and shrink
 
 **LinkedList** - uses pointers to keep track of elements
@@ -7,3 +8,10 @@
 **Stack** - operates on last in, first out(LIFO)
 
 **Queue** - operates on first in, first out(FIFO)
+
+
+#Additional Topics
+
+**Collections frameworks**
+
+**Iterable Interface**
