@@ -36,6 +36,6 @@
 * Other Containers store key/value pairs called maps
 * The interface provides basic operations for add and remove
 * It also important query operations
-* A commonly used method is toArray(), which returns an array
-* To convert from an array to a list use Array.toList()
+* A commonly used method is `toArray()`, which returns an array
+* To convert from an array to a list use `Array.toList()`
 

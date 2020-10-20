@@ -9,9 +9,9 @@
 
 
 
-* Methods in the iterable interface are iterator(), foreach().
-* The iterator() method returns an iterator object.
-* The iterator includes hasNext(), next() and remove().
+* Methods in the iterable interface are `iterator()`, `foreach()`.
+* The `iterator()` method returns an iterator object.
+* The iterator includes `hasNext()`, `next()` and `remove()`.
 * The iterable interface is used to traverse the elements.
 
 
@@ -19,6 +19,6 @@
 * In addition to the iterable interface, there is a ListIterator.
 * The ListIterator is used for list data structures
 * This adds functionality to traverse the list backward
-* Methods include previous(), hasPrevious(), previousIndex().
+* Methods include `previous()`, `hasPrevious()`, `previousIndex()`.
 
 
