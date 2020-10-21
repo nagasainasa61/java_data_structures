@@ -13,10 +13,4 @@ public class VideoGame {
         this.rating = rating;
         this.platforms = platforms;
     }
-
-    public void paintball(){
-        System.out.println(this.title);
-        System.out.println(this.year);
-        System.out.println(this.rating);
-    }
 }
